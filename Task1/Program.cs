@@ -12,4 +12,4 @@ if (num % n1 == 0 && num % n2 == 0)
 else
 {
     Console.WriteLine($"Число {num} не кратно 7 и 23.");
-}
+}       
